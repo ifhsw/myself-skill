@@ -34,7 +34,7 @@
 
 ---
 
-## 1. 这是什么
+## 1. 这是什么(原作者地址：https://github.com/notdog1998/yourself-skill)
 
 **自己.skill** 是一个 Claude Code 的 meta-skill。你提供关于自己的原材料（聊天记录、日记、照片、口述），它把你解构为两个模块：
 
